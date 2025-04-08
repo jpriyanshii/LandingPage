@@ -8,7 +8,7 @@ const Destination = () => {
 <>
     <div>
         <div className='mt-[3rem] ml-[3rem]'>
-           <h1 className="text-2xl font-bold mb-2">Popular Destination</h1>
+           <h1 className="text-2xl font-bold mb-2">Popular Destinations</h1>
            <p className="text-[12px]">Unleash your wanderlust with SkyWings!</p>
         </div>
 

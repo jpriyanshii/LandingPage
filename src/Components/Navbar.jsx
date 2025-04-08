@@ -45,7 +45,7 @@ const Navbar=()=>{
   </div>
 
  
-  <div class="sm:hidden" id="mobile-menu">
+  {/* <div class="sm:hidden" id="mobile-menu">
     <div class="space-y-1 px-2 pt-2 pb-3">
       
       <a href="#" class="block rounded-md px-3 py-2 text-base font-medium hover:bg-gray-700 text-black hover:text-white" aria-current="page">About</a>
@@ -53,7 +53,7 @@ const Navbar=()=>{
       <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-black hover:bg-gray-700 hover:text-white">Package</a>
       <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-black hover:bg-gray-700 hover:text-white">Contact</a>
     </div>
-  </div>
+  </div> */}
  </nav>
 </>
  )

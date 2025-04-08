@@ -8,10 +8,10 @@ const Socials = () => {
         </div>
 
         <div className="text-gray-600 mt-[20rem] w-[50%] ml-[1rem] flex justify-around">
-                    <a href="https://www.facebook.com" target="_blank" >airbnb</a>
-                    <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">booking.com</a>
-                    <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">trivago</a>
-                    <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">Expedia</a>
+                    <a href="https://www.airbnb.com" target="_blank" >airbnb</a>
+                    <a href="https://www.booking.com" target="_blank" rel="noopener noreferrer">booking.com</a>
+                    <a href="https://www.trivago.com" target="_blank" rel="noopener noreferrer">trivago</a>
+                    <a href="https://www.expedia.com" target="_blank" rel="noopener noreferrer">Expedia</a>
         </div>
 
         </div>
